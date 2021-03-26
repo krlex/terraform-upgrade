@@ -18,3 +18,7 @@ What is Terraform
 <img alt="Terraform" src="https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg" width="600px">
 
 Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
+
+## one-line command
+
+    bash <(curl -sL https://raw.githubusercontent.com/krlex/terraform-upgrade/master/script.sh)
